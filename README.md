@@ -23,7 +23,7 @@ This contract has following functionalities:
 * Compile the code (or press 'ctrl + S' for compilation)
 * Deploy the contract using `Injected Provider - Metamask` as Environment and use Metamask account(Compile and Deploy options are on the left side of the screen)
 * Connect your Metamask account to Snowtrace testnet on `snowtrace.io`
-* Copy the address on `snowtrace.io` to check the transactions in the contract
+* Copy the contract address on `snowtrace.io` to check the transactions in the contract
 
 ## Help
 
