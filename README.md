@@ -1,41 +1,30 @@
-# Project Title
+# Create and Mint Token
 
-Simple overview of use/purpose.
+A contract to create your own ERC20 Token.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This `My_New_Token` contract demonstrates the creation and use of a simple ERC20 token.
+In this contract:
+* Only contract owner is able to mint tokens
+* Any user can transfer tokens
+* Any user can burn tokens
 
 ## Getting Started
 
-### Installing
+### Executing the program
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Copy the code and paste it on remix.etherum.org
+* Make sure it is compatible with the current version of the compiler
+* Compile the code (or press 'ctrl + S' for compilation)
+* Deploy the contract (Compile and Deploy options are on the left side of the screen)
+* Use the deployed contract as per your wish.
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Make sure the contract is compatible with the current version of your compiler.
 
-## Authors
+## Author
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Sumit Singh  
+email: sumitsinghace2003@gmail.com
